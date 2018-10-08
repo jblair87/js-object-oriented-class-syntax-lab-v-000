@@ -22,8 +22,8 @@ releasePressStatement(){
 
 
 class Ceo extends boardMember {
- sayHello(){
-   
+ hireEmployee(){
+   return 'Welcome aboard!';
   }}
   
 
