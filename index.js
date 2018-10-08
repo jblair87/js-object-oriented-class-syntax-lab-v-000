@@ -1,1 +1,1 @@
-class boardMember()
+class boardMember(name, homeState, training){}
