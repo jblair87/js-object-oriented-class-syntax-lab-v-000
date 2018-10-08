@@ -10,12 +10,10 @@ class boardMember{
 }
 
 class ceo extends boardMember {
-   boardMembers(name, homeState, training){
-    this.name = name
-    this.homeState = homeState
-    this.training = training
+ sayHello(){
+    super.sayHello()
+    console.log('hello')
   }
-  
   
 }
 
