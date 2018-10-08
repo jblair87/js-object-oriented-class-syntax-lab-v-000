@@ -15,11 +15,11 @@ class boardMember{
   return "You can do that!"}
     
   doCharity(){
-   return "I like to help people."};
+   return "I like to help people."}
     
 releasePressStatement(){
-    return "You will see great things from Scuber."};
-}
+    return "You will see great things from Scuber."}
+
 
 class Ceo extends boardMember {
  sayHello(){
