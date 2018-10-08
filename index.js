@@ -7,7 +7,7 @@ class boardMember{
   
 }
 
-class ceo extends {
+class ceo extends boardMember {
    boardMembers(name, homeState, training){
     this.name = name
     this.homeState = homeState
