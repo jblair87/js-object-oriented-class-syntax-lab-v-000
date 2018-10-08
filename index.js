@@ -9,7 +9,7 @@ class boardMember{
   }
 }
 
-class ceo extends boardMember {
+class Ceo extends boardMember {
  sayHello(){
     super.sayHello()
     console.log('hello')
