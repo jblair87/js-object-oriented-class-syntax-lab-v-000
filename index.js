@@ -8,16 +8,16 @@ class boardMember{
     console.log(`Hello, my name is ${this.name}`);
   }
   
-  this.veto = function(){
-   return "No, I must disagree"};
+  veto(){
+   return "No, I must disagree"}
     
-  this.approve = function(){
-  return "You can do that!"};
+   approve(){
+  return "You can do that!"}
     
-  this.doCharity = function(){
+  doCharity(){
    return "I like to help people."};
     
-  this.releasePressStatement = function(){
+releasePressStatement(){
     return "You will see great things from Scuber."};
 }
 
