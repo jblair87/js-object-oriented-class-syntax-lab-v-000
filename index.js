@@ -18,6 +18,11 @@ class boardMember{
 releasePressStatement(){
     return "You will see great things from Scuber."}
 
+  sayHello() {
+   return `Hello, my name is ${this.name}`;
+  }
+
+
 
 class Ceo extends boardMember {
  hireEmployee(){
