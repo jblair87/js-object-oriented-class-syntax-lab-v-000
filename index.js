@@ -4,7 +4,9 @@ class boardMember{
     this.homeState = homeState
     this.training = training
   }
-  
+  sayHello() {
+    console.log(`Hello, my name is ${this.name}`);
+  }
 }
 
 class ceo extends boardMember {
