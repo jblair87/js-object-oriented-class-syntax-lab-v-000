@@ -23,9 +23,8 @@ releasePressStatement(){
 
 class Ceo extends boardMember {
  sayHello(){
-    super.sayHello()
-    console.log('hello')
-  }
+   
+  }}
   
 
 
