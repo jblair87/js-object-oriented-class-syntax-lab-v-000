@@ -27,5 +27,5 @@ class Ceo extends boardMember {
     console.log('hello')
   }
   
-}
+
 
