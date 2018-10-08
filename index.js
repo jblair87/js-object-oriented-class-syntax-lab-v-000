@@ -19,7 +19,7 @@ releasePressStatement(){
     return "You will see great things from Scuber."}
 
   sayHello() {
-   return `Hello, my name is ${this.name}`;
+   return `Hi, my name is ${this.name}. I am from ${this.homeState} and training in ${this.training}`;
   }
 
 
